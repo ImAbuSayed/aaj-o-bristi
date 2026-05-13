@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aaj O Bristi
+
+This log tracks the cryptographic history and versioning for the song **Aaj O Bristi** (aaj-o-bristi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T07:09:51.520309 | `v1` | `4d122d385b233431ddcb659b3ab7dbdfe3187b4dece17d19290a4df2f6ce7173` | `f0c33a07b1422e39beaf920685b6b59f5ce9b233677902af32e5020f3db92eb1` | `2026-05-13_aaj-o-bristi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

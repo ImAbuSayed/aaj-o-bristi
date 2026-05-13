@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aaj-o-bristi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Aaj O Bristi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aaj-o-bristi/) |
+| **Get License** | [Music Rights & Licensing for Aaj O Bristi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aaj-o-bristi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4d122d385b233431ddcb659b3ab7dbdfe3187b4dece17d19290a4df2f6ce7173` |
 | **Timestamp** | May 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
